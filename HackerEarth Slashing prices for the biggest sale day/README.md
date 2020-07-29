@@ -7,3 +7,5 @@ Using Lightgbm, Xgboost, and Random Forest regression models and found the param
 Lightgbm model considered categorical data but other model didn't consider it. Because it was boring.
 
 I spent 8 hours writing the code.
+
+https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/
